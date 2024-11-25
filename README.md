@@ -31,11 +31,13 @@ Research Assistant @ National Taiwan Normal University, Taiwan (Jul 2015 - Aug 2
 
 ## Projects
 Intuitive Physics of Tower Stability in Virtual Reality
+[Link](https://github.com/ycyukichen/VR-project)
 - Developed a deep learning model to predict tower stability with 95% accuracy in a 3D virtual environment.
 - Utilized data augmentation techniques to improve model generalization by generating synthetic variations of tower structures, enhancing model robustness in predicting stability across diverse scenarios.
 - Applied interpretability techniques to explain model decision-making, improving the model's transparency and reliability.
 - Presented findings at the Capital Graphics 2024 Conference, demonstrating the application of machine learning to physical intuition problems.
 
 Understanding Crime Variance Across DC Quadrants
+[Link](https://audatacourse.shinyapps.io/dc-crime)
 - Analyzed differences in crime rates and types across Washington, DC.
 - Developed an interactive R Shiny application to map and visualize crime data, facilitating user exploration and insight generation.
