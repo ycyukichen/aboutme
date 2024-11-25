@@ -1,10 +1,11 @@
 # Data Scientist
+Technical Skills: Python, R, SQL, SPSS
 
-### Education
+## Education
 - M.S., Data Science | American University (May 2024)
 - M.Ed., Special Education | National Taipei University of Education (Jun 2019)
 
-### Work Experience
+## Work Experience
 Graduate Research Assistant @ American University, Washington, DC (Jun 2023 - May 2024)
 - Analyzed over 1,000 YouTube video data using Python, scraping channel statistics via the YouTube API to identify trends and optimize content strategies.
 - Performed sentiment analysis on 10,000+ user comments using Natural Language Processing (NLP) techniques (NLTK, TextBlob), improving audience engagement insights by 25%.
@@ -28,7 +29,7 @@ Research Assistant @ National Taiwan Normal University, Taiwan (Jul 2015 - Aug 2
 - Managed nationwide data collection and training programs, ensuring consistency in data across 50+ researchers and reducing errors in the Kids in Taiwan Database by 10%.
 - Created predictive models to forecast child development outcomes, directly informing intervention strategies for early childhood programs.
 
-### Projects
+## Projects
 Intuitive Physics of Tower Stability in Virtual Reality
 - Developed a deep learning model to predict tower stability with 95% accuracy in a 3D virtual environment.
 - Utilized data augmentation techniques to improve model generalization by generating synthetic variations of tower structures, enhancing model robustness in predicting stability across diverse scenarios.
