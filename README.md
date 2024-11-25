@@ -1,5 +1,5 @@
 # Data Scientist
-**Technical Skills: Python, R, SQL, SPSS**
+**Technical Skills: Python, R, SQL, SPSS, Machine Learning**
 
 ## Education
 - M.S., Data Science | American University (May 2024)
