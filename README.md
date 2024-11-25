@@ -1,5 +1,5 @@
 # Data Scientist
-Technical Skills: Python, R, SQL, SPSS
+**Technical Skills: Python, R, SQL, SPSS**
 
 ## Education
 - M.S., Data Science | American University (May 2024)
@@ -42,8 +42,8 @@ Understanding Crime Variance Across DC Quadrants
 - Developed an interactive R Shiny application to map and visualize crime data, facilitating user exploration and insight generation.
 
 ## Presentations
-Chen, Y., Xiao, B. (2024, May). Intuitive physics of tower stability in virtual reality. Presented at the Capital Graphics 2024 Conference, Washington, DC.
+Chen, Y., Xiao, B. (2024, May). *Intuitive physics of tower stability in virtual reality. Presented at the Capital Graphics 2024 Conference,* Washington, DC.
 
-Knowles, S., Chen, Y., & Jackson, J. (2024, March). Highly popular English teachers on YouTube: A critical perspective on the global English industry. Presented at AAAL 2024 Conference, Houston, Texas.
+Knowles, S., Chen, Y., & Jackson, J. (2024, March). *Highly popular English teachers on YouTube: A critical perspective on the global English industry. Presented at AAAL 2024 Conference,* Houston, Texas.
 
-Knowles, S., Chen, Y., & Jackson, J. (2023, November). The hidden secrets of English fluency unveiled: What English learning looks like on YouTube. Presented at Blending Tradition and Innovation: Effective Practices for Language Learning, Washington, DC.
+Knowles, S., Chen, Y., & Jackson, J. (2023, November). *The hidden secrets of English fluency unveiled: What English learning looks like on YouTube. Presented at Blending Tradition and Innovation: Effective Practices for Language Learning,* Washington, DC.
